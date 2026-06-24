@@ -1,0 +1,53 @@
+2026-06-18 11:03:33.814 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-18 11:03:34.593 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-18 11:03:37.488 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 19:36:28.739 [main] INFO  testCases.LoginTest - ****Starting Login Test****
+2026-06-19 19:36:28.813 [main] INFO  testCases.LoginTest - Clicked on My Account Link
+2026-06-19 19:36:28.991 [main] INFO  testCases.LoginTest - Clicked on My Login Link
+2026-06-19 19:36:29.431 [main] INFO  testCases.LoginTest - Entered email for login
+2026-06-19 19:36:29.647 [main] INFO  testCases.LoginTest - Entered password for login
+2026-06-19 19:36:29.785 [main] INFO  testCases.LoginTest - Clicked on login button for login function
+2026-06-19 19:36:30.974 [main] INFO  testCases.LoginTest - account page verification
+2026-06-19 19:36:41.107 [main] INFO  testCases.LoginTest - Login Test failed
+2026-06-19 19:41:45.260 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 19:41:45.438 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-19 19:41:45.918 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-19 19:41:48.879 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 19:47:31.440 [main] INFO  testCases.LoginTest - ****Starting Login Test****
+2026-06-19 19:47:31.535 [main] INFO  testCases.LoginTest - Clicked on My Account Link
+2026-06-19 19:47:31.672 [main] INFO  testCases.LoginTest - Clicked on My Login Link
+2026-06-19 19:47:32.045 [main] INFO  testCases.LoginTest - Entered email for login
+2026-06-19 19:47:32.265 [main] INFO  testCases.LoginTest - Entered password for login
+2026-06-19 19:47:32.424 [main] INFO  testCases.LoginTest - Clicked on login button for login function
+2026-06-19 19:47:33.605 [main] INFO  testCases.LoginTest - account page verification
+2026-06-19 19:47:37.994 [main] INFO  testCases.LoginTest - Login Test failed
+2026-06-19 19:47:56.374 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 19:47:56.512 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-19 19:47:57.043 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-19 19:47:59.750 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 19:51:54.183 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 19:51:54.346 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-19 19:51:54.850 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-19 19:51:57.890 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 19:51:57.908 [main] INFO  testBase.Base - ****Starting Login Test****
+2026-06-19 19:51:57.909 [main] INFO  testBase.Base - Clicked on My Account Link
+2026-06-19 19:52:49.684 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 19:52:49.883 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-19 19:52:50.432 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-19 19:52:53.131 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 19:52:53.150 [main] INFO  testBase.Base - ****Starting Login Test****
+2026-06-19 19:52:53.150 [main] INFO  testBase.Base - Clicked on My Account Link
+2026-06-19 20:07:57.469 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 20:07:57.658 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-19 20:07:58.111 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-19 20:08:00.697 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 20:08:00.716 [main] INFO  testBase.Base - ****Starting Login Test****
+2026-06-19 20:08:00.717 [main] INFO  testBase.Base - Clicked on My Account Link
+2026-06-19 20:11:48.788 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 20:11:48.942 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-19 20:11:49.470 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-19 20:11:51.962 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-19 20:11:51.982 [main] INFO  testBase.Base - ****Starting Login Test****
+2026-06-19 20:11:51.983 [main] INFO  testBase.Base - ****Starting Login Test****
+2026-06-19 20:22:37.706 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-19 20:22:37.843 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****

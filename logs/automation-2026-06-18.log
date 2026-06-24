@@ -1,0 +1,51 @@
+2026-06-17 10:50:32.724 [main] INFO  testCases.LoginDataDrivenTest - Entering login email
+2026-06-17 10:50:32.975 [main] INFO  testCases.LoginDataDrivenTest - Entering login password
+2026-06-17 10:50:33.135 [main] INFO  testCases.LoginDataDrivenTest - Clicking login button
+2026-06-17 10:50:39.807 [main] INFO  testCases.LoginDataDrivenTest - ***validation for invalid result ***
+2026-06-17 10:50:39.813 [main] INFO  testCases.LoginDataDrivenTest - ***validation for valid result ***
+2026-06-17 10:50:39.813 [main] INFO  testCases.LoginDataDrivenTest - ***completed LoginDDTest ***
+2026-06-17 10:50:39.828 [main] INFO  testCases.LoginDataDrivenTest - ****Starting Login Test****
+2026-06-17 10:50:39.831 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Account Link
+2026-06-17 10:50:39.953 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Login Link
+2026-06-17 10:50:40.315 [main] INFO  testCases.LoginDataDrivenTest - Entering login email
+2026-06-17 10:50:40.496 [main] INFO  testCases.LoginDataDrivenTest - Entering login password
+2026-06-17 10:50:40.624 [main] INFO  testCases.LoginDataDrivenTest - Clicking login button
+2026-06-17 10:50:46.570 [main] INFO  testCases.LoginDataDrivenTest - ***validation for invalid result ***
+2026-06-17 10:50:46.571 [main] INFO  testCases.LoginDataDrivenTest - ***validation for valid result ***
+2026-06-17 10:50:46.571 [main] INFO  testCases.LoginDataDrivenTest - ***completed LoginDDTest ***
+2026-06-17 10:50:46.578 [main] INFO  testCases.LoginDataDrivenTest - ****Starting Login Test****
+2026-06-17 10:50:46.579 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Account Link
+2026-06-17 10:50:46.697 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Login Link
+2026-06-17 10:50:46.976 [main] INFO  testCases.LoginDataDrivenTest - Entering login email
+2026-06-17 10:50:47.142 [main] INFO  testCases.LoginDataDrivenTest - Entering login password
+2026-06-17 10:50:47.278 [main] INFO  testCases.LoginDataDrivenTest - Clicking login button
+2026-06-17 10:50:53.466 [main] INFO  testCases.LoginDataDrivenTest - ***validation for invalid result ***
+2026-06-17 10:50:53.466 [main] INFO  testCases.LoginDataDrivenTest - ***validation for valid result ***
+2026-06-17 10:50:53.467 [main] INFO  testCases.LoginDataDrivenTest - ***completed LoginDDTest ***
+2026-06-17 10:50:53.475 [main] INFO  testCases.LoginDataDrivenTest - ****Starting Login Test****
+2026-06-17 10:50:53.476 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Account Link
+2026-06-17 10:50:53.610 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Login Link
+2026-06-17 10:50:53.902 [main] INFO  testCases.LoginDataDrivenTest - Entering login email
+2026-06-17 10:50:54.016 [main] INFO  testCases.LoginDataDrivenTest - Entering login password
+2026-06-17 10:50:54.141 [main] INFO  testCases.LoginDataDrivenTest - Clicking login button
+2026-06-17 10:51:00.486 [main] INFO  testCases.LoginDataDrivenTest - ***validation for invalid result ***
+2026-06-17 10:51:00.489 [main] INFO  testCases.LoginDataDrivenTest - ***validation for valid result ***
+2026-06-17 10:51:00.489 [main] INFO  testCases.LoginDataDrivenTest - ***completed LoginDDTest ***
+2026-06-17 10:51:00.500 [main] INFO  testCases.LoginDataDrivenTest - ****Starting Login Test****
+2026-06-17 10:51:00.501 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Account Link
+2026-06-17 10:51:00.628 [main] INFO  testCases.LoginDataDrivenTest - Clicked on My Login Link
+2026-06-17 10:51:00.928 [main] INFO  testCases.LoginDataDrivenTest - Entering login email
+2026-06-17 10:51:01.097 [main] INFO  testCases.LoginDataDrivenTest - Entering login password
+2026-06-17 10:51:01.243 [main] INFO  testCases.LoginDataDrivenTest - Clicking login button
+2026-06-17 10:51:02.089 [main] INFO  testCases.LoginDataDrivenTest - ***validation for invalid result ***
+2026-06-17 10:51:02.089 [main] INFO  testCases.LoginDataDrivenTest - ***validation for valid result ***
+2026-06-17 10:51:02.741 [main] INFO  testCases.LoginDataDrivenTest - ***completed LoginDDTest ***
+2026-06-18 10:54:30.573 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-18 10:54:30.774 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-18 10:54:31.425 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-18 10:54:34.130 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-18 11:01:00.661 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****
+2026-06-18 11:01:00.831 [main] INFO  testCases.RegistrationTest - ***** Clicked on Register Link *****
+2026-06-18 11:01:01.356 [main] INFO  testCases.RegistrationTest - ***** Entering Registration Details *****
+2026-06-18 11:01:04.856 [main] INFO  testCases.RegistrationTest - ***** Registration Completed *****
+2026-06-18 11:03:33.531 [main] INFO  testCases.RegistrationTest - ***** Clicked on My Account Link *****

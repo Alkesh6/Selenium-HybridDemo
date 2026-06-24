@@ -1,0 +1,21 @@
+<suite name="Suite">
+<groups>
+<run>
+<include name="Regression"/>
+<!--  <exclude name=""></exclude>  -->
+</run>
+</groups>
+<parameter name="Browser" value="chrome"/>
+<parameter name="OS" value="windows"/>
+
+<test thread-count="5" name="Test">
+<classes>
+<class name="testCases.LoginTest"/>
+<!--    <class name="codenbox.testCases.LoginDatDrivenTest"/>  -->
+</classes>
+</test>
+<!-- 
+	Test  -->
+</suite>
+<!-- 
+Suite  -->

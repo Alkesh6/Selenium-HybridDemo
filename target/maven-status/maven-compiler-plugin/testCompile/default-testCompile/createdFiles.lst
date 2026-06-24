@@ -1,0 +1,6 @@
+testBase\Base.class
+testCases\RegistrationTest.class
+testCases\LoginTest.class
+testCases\LoginDataDrivenTest.class
+utilities\DataProviders.class
+utilities\ExcelReader.class
