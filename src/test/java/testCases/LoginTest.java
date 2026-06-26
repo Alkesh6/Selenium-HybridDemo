@@ -11,6 +11,7 @@ import pageObject.RegistrationPage;
 
 public class LoginTest extends Base{
 	
+	// making the email and password field as private (added the comment to commit changes to git)
 	private String testEmail;
 	private String testPassword;
 	
